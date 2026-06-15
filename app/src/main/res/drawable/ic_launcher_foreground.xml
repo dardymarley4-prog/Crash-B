@@ -1,0 +1,58 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Speed / Motion lines left and right -->
+    <path
+        android:fillColor="#00E676"
+        android:pathData="M18,35 L40,35 L36,39 L18,39 Z" />
+    <path
+        android:fillColor="#FF5722"
+        android:pathData="M22,45 L45,45 L41,49 L20,49 Z" />
+    <path
+        android:fillColor="#00E676"
+        android:pathData="M15,55 L38,55 L34,59 L15,59 Z" />
+
+    <!-- Mirror side trails -->
+    <path
+        android:fillColor="#00E676"
+        android:pathData="M90,35 L68,35 L72,39 L90,39 Z" />
+    <path
+        android:fillColor="#FF5722"
+        android:pathData="M86,45 L63,45 L67,49 L84,49 Z" />
+    <path
+        android:fillColor="#00E676"
+        android:pathData="M93,55 L70,55 L74,59 L93,59 Z" />
+
+    <!-- Main Racing Car silhouette centered -->
+    <!-- Rear spoiler -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M38,58 L70,58 L73,64 L35,64 Z" />
+
+    <!-- Car main body cabin -->
+    <path
+        android:fillColor="#FF5722"
+        android:pathData="M44,38 L64,38 L68,58 L40,58 Z" />
+
+    <!-- Cockpit Windshield -->
+    <path
+        android:fillColor="#00E676"
+        android:pathData="M48,40 L60,40 L62,49 L46,49 Z" />
+
+    <!-- Back wheels indicators -->
+    <path
+        android:fillColor="#111111"
+        android:pathData="M33,60 L39,60 L39,72 L33,72 Z" />
+    <path
+        android:fillColor="#111111"
+        android:pathData="M69,60 L75,60 L75,72 L69,72 Z" />
+
+    <!-- Nose / Front wing splitter -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M46,31 L62,31 L59,37 L49,37 Z" />
+
+</vector>

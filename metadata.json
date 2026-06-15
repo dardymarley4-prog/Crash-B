@@ -1,0 +1,6 @@
+{
+  "name": "Crash B",
+  "description": "Un jeu de simulation de course automobile en 3D avec de la vitesse, des dérapages et des crashs épiques !",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
